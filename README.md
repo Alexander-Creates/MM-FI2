@@ -8,7 +8,6 @@ The program uses the dual core functionality that runs the fault injection progr
 
 
 To run the program:
-
 <br/> 1. change the CMakeLists.txt file and change this line: set(PICO_SDK_PATH "set directory to Pico SDK path") to include the Pico SDK directory.
 <br/> 2. cd into /build and run cmake ..
 <br/> 3. run make
