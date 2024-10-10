@@ -1,5 +1,6 @@
-# MM-FI2
-Fault injector for Microcontrollers
+# Fault injector for Microcontrollers
+This is a fault injector software that is heavily inspired by the Carol-FI fault injector:
+https://github.com/UFRGS-CAROL/carol-fi
 
 Currently, the only supported CPU is the Cortex-M0 what runs on the Raspberry Pi Pico. 
 
