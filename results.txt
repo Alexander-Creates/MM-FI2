@@ -1,0 +1,14015 @@
+Result matrix on interation 1:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 2:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 3:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 4:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 5:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 6:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 7:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 8:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 9:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][1]!
+Result matrix on interation 10:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 11:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 12:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 13:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 14:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 15:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 16:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 17:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 18:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 19:
+30 24 18 
+84 69 54 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][0]!
+Changed register 6! 
+Result matrix on interation 20:
+30 24 18 
+73812 65605 57398 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 21:
+30 24 18 
+73812 65605 57398 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 22:
+30 24 18 
+73812 65605 57398 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 23:
+30 24 18 
+73812 65605 57398 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 24:
+30 24 18 
+73812 65605 57398 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 25:
+30 24 18 
+73812 65605 57398 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 26:
+30 24 18 
+73812 65605 57398 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 27:
+30 24 18 
+73812 65605 57398 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 28:
+30 24 18 
+73812 65605 57398 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 29:
+30 24 18 
+73812 65605 57398 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][0]!
+Changed register 4! 
+Result matrix on interation 30:
+30 24 18 
+1253460 1114181 974902 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 31:
+30 24 18 
+1253460 1114181 974902 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 32:
+30 24 18 
+1253460 1114181 974902 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 33:
+30 24 18 
+1253460 1114181 974902 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 34:
+30 24 18 
+1253460 1114181 974902 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 35:
+30 24 18 
+1253460 1114181 974902 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 36:
+30 24 18 
+1253460 1114181 974902 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 37:
+30 24 18 
+1253460 1114181 974902 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 38:
+30 24 18 
+1253460 1114181 974902 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 39:
+30 24 18 
+1253460 1114181 974902 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][2]!
+Changed register 5! 
+Result matrix on interation 40:
+30 24 18 
+7544916 5308485 3072054 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 41:
+30 24 18 
+7544916 5308485 3072054 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 42:
+30 24 18 
+7544916 5308485 3072054 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 43:
+30 24 18 
+7544916 5308485 3072054 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 44:
+30 24 18 
+7544916 5308485 3072054 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 45:
+30 24 18 
+7544916 5308485 3072054 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 46:
+30 24 18 
+7544916 5308485 3072054 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 47:
+30 24 18 
+7544916 5308485 3072054 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 48:
+30 24 18 
+7544916 5308485 3072054 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 49:
+30 24 18 
+7544916 5308485 3072054 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][1]!
+Changed register 3! 
+Result matrix on interation 50:
+30 24 18 
+108208212 89194565 70180918 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 51:
+30 24 18 
+108208212 89194565 70180918 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 52:
+30 24 18 
+108208212 89194565 70180918 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 53:
+30 24 18 
+108208212 89194565 70180918 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 54:
+30 24 18 
+108208212 89194565 70180918 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 55:
+30 24 18 
+108208212 89194565 70180918 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 56:
+30 24 18 
+108208212 89194565 70180918 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 57:
+30 24 18 
+108208212 89194565 70180918 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 58:
+30 24 18 
+108208212 89194565 70180918 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 59:
+30 24 18 
+108208212 89194565 70180918 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][0]!
+Changed register 2! 
+Result matrix on interation 60:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 61:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 62:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 63:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 64:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 65:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 66:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 67:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 68:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 69:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][2]!
+Result matrix on interation 70:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 71:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 72:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 73:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 74:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 75:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 76:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 77:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 78:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 79:
+30 24 18 
+-1770839980 -2058289083 1949229110 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][1]!
+Changed register 5! 
+Result matrix on interation 80:
+30 24 18 
+-1770839884 -2058289003 1949229174 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 81:
+30 24 18 
+-1770839884 -2058289003 1949229174 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 82:
+30 24 18 
+-1770839884 -2058289003 1949229174 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 83:
+30 24 18 
+-1770839884 -2058289003 1949229174 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 84:
+30 24 18 
+-1770839884 -2058289003 1949229174 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 85:
+30 24 18 
+-1770839884 -2058289003 1949229174 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 86:
+30 24 18 
+-1770839884 -2058289003 1949229174 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 87:
+30 24 18 
+-1770839884 -2058289003 1949229174 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 88:
+30 24 18 
+-1770839884 -2058289003 1949229174 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 89:
+30 24 18 
+-1770839884 -2058289003 1949229174 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][1]!
+Changed register 4! 
+Result matrix on interation 90:
+30 24 18 
+-1770839116 -2058288363 1949229686 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 91:
+30 24 18 
+-1770839116 -2058288363 1949229686 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 92:
+30 24 18 
+-1770839116 -2058288363 1949229686 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 93:
+30 24 18 
+-1770839116 -2058288363 1949229686 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 94:
+30 24 18 
+-1770839116 -2058288363 1949229686 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 95:
+30 24 18 
+-1770839116 -2058288363 1949229686 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 96:
+30 24 18 
+-1770839116 -2058288363 1949229686 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 97:
+30 24 18 
+-1770839116 -2058288363 1949229686 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 98:
+30 24 18 
+-1770839116 -2058288363 1949229686 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 99:
+30 24 18 
+-1770839116 -2058288363 1949229686 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][0]!
+Changed register 2! 
+Result matrix on interation 100:
+30 24 18 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 101:
+30 24 18 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 102:
+30 24 18 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 103:
+30 24 18 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 104:
+30 24 18 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 105:
+30 24 18 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 106:
+30 24 18 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 107:
+30 24 18 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 108:
+30 24 18 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][2]!
+Changed register 3! 
+Result matrix on interation 109:
+98334 65560 32786 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 110:
+98334 65560 32786 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 111:
+98334 65560 32786 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 112:
+98334 65560 32786 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 113:
+98334 65560 32786 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 114:
+98334 65560 32786 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 115:
+98334 65560 32786 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 116:
+98334 65560 32786 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 117:
+98334 65560 32786 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 118:
+98334 65560 32786 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][2]!
+Changed register 1! 
+Result matrix on interation 119:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 120:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 121:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 122:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 123:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 124:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 125:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 126:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 127:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 128:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][1]!
+Result matrix on interation 129:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 130:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 131:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 132:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 133:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 134:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 135:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 136:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 137:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 138:
+884766 589848 294930 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][0]!
+Changed register 5! 
+Result matrix on interation 139:
+604864542 537460760 470056978 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 140:
+604864542 537460760 470056978 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 141:
+604864542 537460760 470056978 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 142:
+604864542 537460760 470056978 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 143:
+604864542 537460760 470056978 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 144:
+604864542 537460760 470056978 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 145:
+604864542 537460760 470056978 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 146:
+604864542 537460760 470056978 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 147:
+604864542 537460760 470056978 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 148:
+604864542 537460760 470056978 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][0]!
+Changed register 4! 
+Result matrix on interation 149:
+1678606366 537460760 -603684846 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 150:
+1678606366 537460760 -603684846 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 151:
+1678606366 537460760 -603684846 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 152:
+1678606366 537460760 -603684846 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 153:
+1678606366 537460760 -603684846 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 154:
+1678606366 537460760 -603684846 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 155:
+1678606366 537460760 -603684846 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 156:
+1678606366 537460760 -603684846 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 157:
+1678606366 537460760 -603684846 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 158:
+1678606366 537460760 -603684846 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][2]!
+Changed register 2! 
+Result matrix on interation 159:
+1678606360 537460756 -603684848 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 160:
+1678606360 537460756 -603684848 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 161:
+1678606360 537460756 -603684848 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 162:
+1678606360 537460756 -603684848 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 163:
+1678606360 537460756 -603684848 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 164:
+1678606360 537460756 -603684848 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 165:
+1678606360 537460756 -603684848 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 166:
+1678606360 537460756 -603684848 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 167:
+1678606360 537460756 -603684848 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 168:
+1678606360 537460756 -603684848 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][1]!
+Changed register 1! 
+Result matrix on interation 169:
+1678606552 537460916 -603684720 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 170:
+1678606552 537460916 -603684720 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 171:
+1678606552 537460916 -603684720 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 172:
+1678606552 537460916 -603684720 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 173:
+1678606552 537460916 -603684720 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 174:
+1678606552 537460916 -603684720 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 175:
+1678606552 537460916 -603684720 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 176:
+1678606552 537460916 -603684720 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 177:
+1678606552 537460916 -603684720 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 178:
+1678606552 537460916 -603684720 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][0]!
+Changed register 1! 
+Result matrix on interation 179:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 180:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 181:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 182:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 183:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 184:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 185:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 186:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 187:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][2]!
+Result matrix on interation 188:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 189:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 190:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 191:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 192:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 193:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 194:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 195:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 196:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 197:
+1678611160 537465012 -603681136 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][1]!
+Changed register 5! 
+Result matrix on interation 198:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 199:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 200:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 201:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 202:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 203:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 204:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 205:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 206:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 207:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+138 114 90 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][0]!
+Changed register 3! 
+Result matrix on interation 208:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+9437322 8388722 7340122 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 209:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+9437322 8388722 7340122 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 210:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+9437322 8388722 7340122 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 211:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+9437322 8388722 7340122 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 212:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+9437322 8388722 7340122 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 213:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+9437322 8388722 7340122 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 214:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+9437322 8388722 7340122 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 215:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+9437322 8388722 7340122 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 216:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+9437322 8388722 7340122 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 217:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+9437322 8388722 7340122 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][0]!
+Changed register 2! 
+Result matrix on interation 218:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 219:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 220:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 221:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 222:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 223:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 224:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 225:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 226:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 227:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][2]!
+Result matrix on interation 228:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 229:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 230:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 231:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 232:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 233:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 234:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 235:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 236:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 237:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 142606450 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][1]!
+Changed register 6! 
+Result matrix on interation 238:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 -2004877198 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 239:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 -2004877198 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 240:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 -2004877198 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 241:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 -2004877198 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 242:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 -2004877198 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 243:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 -2004877198 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 244:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 -2004877198 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 245:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 -2004877198 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 246:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 -2004877198 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 247:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432266 -2004877198 124780634 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][0]!
+Changed register 4! 
+Result matrix on interation 248:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432338 -2004877134 124780690 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 249:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432338 -2004877134 124780690 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 250:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432338 -2004877134 124780690 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 251:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432338 -2004877134 124780690 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 252:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432338 -2004877134 124780690 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 253:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432338 -2004877134 124780690 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 254:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432338 -2004877134 124780690 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 255:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432338 -2004877134 124780690 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 256:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432338 -2004877134 124780690 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 257:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432338 -2004877134 124780690 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][2]!
+Changed register 5! 
+Result matrix on interation 258:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432530 -2004877006 124780754 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 259:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432530 -2004877006 124780754 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 260:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432530 -2004877006 124780754 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 261:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432530 -2004877006 124780754 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 262:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432530 -2004877006 124780754 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 263:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432530 -2004877006 124780754 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 264:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432530 -2004877006 124780754 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 265:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432530 -2004877006 124780754 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 266:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160432530 -2004877006 124780754 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][1]!
+Changed register 3! 
+Result matrix on interation 267:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160438674 -2004871886 124784850 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 268:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160438674 -2004871886 124784850 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 269:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160438674 -2004871886 124784850 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 270:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160438674 -2004871886 124784850 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 271:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160438674 -2004871886 124784850 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 272:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160438674 -2004871886 124784850 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 273:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160438674 -2004871886 124784850 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 274:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160438674 -2004871886 124784850 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 275:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160438674 -2004871886 124784850 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 276:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160438674 -2004871886 124784850 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][2]!
+Changed register 2! 
+Result matrix on interation 277:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 278:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 279:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 280:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 281:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 282:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 283:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 284:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 285:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 286:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][1]!
+Result matrix on interation 287:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 288:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 289:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 290:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 291:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 292:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 293:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 294:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 295:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 296:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+160487826 -2004839118 124801234 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][0]!
+Changed register 6! 
+Result matrix on interation 297:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 298:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 299:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 300:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 301:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 302:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 303:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 304:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 305:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 306:
+1679004376 537792692 -603418992 
+-1770820684 -2058271979 1949244022 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][2]!
+Changed register 4! 
+Result matrix on interation 307:
+1679004376 537792692 -603418992 
+-1670157388 -1991163115 1982798454 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 308:
+1679004376 537792692 -603418992 
+-1670157388 -1991163115 1982798454 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 309:
+1679004376 537792692 -603418992 
+-1670157388 -1991163115 1982798454 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 310:
+1679004376 537792692 -603418992 
+-1670157388 -1991163115 1982798454 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 311:
+1679004376 537792692 -603418992 
+-1670157388 -1991163115 1982798454 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 312:
+1679004376 537792692 -603418992 
+-1670157388 -1991163115 1982798454 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 313:
+1679004376 537792692 -603418992 
+-1670157388 -1991163115 1982798454 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 314:
+1679004376 537792692 -603418992 
+-1670157388 -1991163115 1982798454 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 315:
+1679004376 537792692 -603418992 
+-1670157388 -1991163115 1982798454 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 316:
+1679004376 537792692 -603418992 
+-1670157388 -1991163115 1982798454 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][1]!
+Changed register 2! 
+Result matrix on interation 317:
+1679004376 537792692 -603418992 
+1551068084 693191445 -164685194 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 318:
+1679004376 537792692 -603418992 
+1551068084 693191445 -164685194 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 319:
+1679004376 537792692 -603418992 
+1551068084 693191445 -164685194 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 320:
+1679004376 537792692 -603418992 
+1551068084 693191445 -164685194 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 321:
+1679004376 537792692 -603418992 
+1551068084 693191445 -164685194 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 322:
+1679004376 537792692 -603418992 
+1551068084 693191445 -164685194 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 323:
+1679004376 537792692 -603418992 
+1551068084 693191445 -164685194 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 324:
+1679004376 537792692 -603418992 
+1551068084 693191445 -164685194 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 325:
+1679004376 537792692 -603418992 
+1551068084 693191445 -164685194 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 326:
+1679004376 537792692 -603418992 
+1551068084 693191445 -164685194 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][0]!
+Changed register 3! 
+Result matrix on interation 327:
+1679004376 537792692 -603418992 
+1551068102 693191461 -164685180 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 328:
+1679004376 537792692 -603418992 
+1551068102 693191461 -164685180 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 329:
+1679004376 537792692 -603418992 
+1551068102 693191461 -164685180 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 330:
+1679004376 537792692 -603418992 
+1551068102 693191461 -164685180 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 331:
+1679004376 537792692 -603418992 
+1551068102 693191461 -164685180 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 332:
+1679004376 537792692 -603418992 
+1551068102 693191461 -164685180 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 333:
+1679004376 537792692 -603418992 
+1551068102 693191461 -164685180 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 334:
+1679004376 537792692 -603418992 
+1551068102 693191461 -164685180 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 335:
+1679004376 537792692 -603418992 
+1551068102 693191461 -164685180 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][2]!
+Changed register 1! 
+Result matrix on interation 336:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 337:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 338:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 339:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 340:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 341:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 342:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 343:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 344:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 345:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][2]!
+Result matrix on interation 346:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 347:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 348:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 349:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 350:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 351:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 352:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 353:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 354:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 355:
+1679004376 537792692 -603418992 
+1551068150 693191493 -164685164 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][1]!
+Changed register 5! 
+Result matrix on interation 356:
+1679004376 537792692 -603418992 
+1551092726 693211973 -164668780 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 357:
+1679004376 537792692 -603418992 
+1551092726 693211973 -164668780 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 358:
+1679004376 537792692 -603418992 
+1551092726 693211973 -164668780 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 359:
+1679004376 537792692 -603418992 
+1551092726 693211973 -164668780 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 360:
+1679004376 537792692 -603418992 
+1551092726 693211973 -164668780 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 361:
+1679004376 537792692 -603418992 
+1551092726 693211973 -164668780 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 362:
+1679004376 537792692 -603418992 
+1551092726 693211973 -164668780 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 363:
+1679004376 537792692 -603418992 
+1551092726 693211973 -164668780 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 364:
+1679004376 537792692 -603418992 
+1551092726 693211973 -164668780 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 365:
+1679004376 537792692 -603418992 
+1551092726 693211973 -164668780 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][0]!
+Changed register 4! 
+Result matrix on interation 366:
+1679004376 537792692 -603418992 
+1551387638 693474117 -164439404 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 367:
+1679004376 537792692 -603418992 
+1551387638 693474117 -164439404 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 368:
+1679004376 537792692 -603418992 
+1551387638 693474117 -164439404 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 369:
+1679004376 537792692 -603418992 
+1551387638 693474117 -164439404 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 370:
+1679004376 537792692 -603418992 
+1551387638 693474117 -164439404 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 371:
+1679004376 537792692 -603418992 
+1551387638 693474117 -164439404 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 372:
+1679004376 537792692 -603418992 
+1551387638 693474117 -164439404 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 373:
+1679004376 537792692 -603418992 
+1551387638 693474117 -164439404 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 374:
+1679004376 537792692 -603418992 
+1551387638 693474117 -164439404 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 375:
+1679004376 537792692 -603418992 
+1551387638 693474117 -164439404 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][2]!
+Changed register 2! 
+Result matrix on interation 376:
+1679004376 537792692 -603418992 
+1552960502 694522693 -163915116 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 377:
+1679004376 537792692 -603418992 
+1552960502 694522693 -163915116 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 378:
+1679004376 537792692 -603418992 
+1552960502 694522693 -163915116 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 379:
+1679004376 537792692 -603418992 
+1552960502 694522693 -163915116 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 380:
+1679004376 537792692 -603418992 
+1552960502 694522693 -163915116 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 381:
+1679004376 537792692 -603418992 
+1552960502 694522693 -163915116 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 382:
+1679004376 537792692 -603418992 
+1552960502 694522693 -163915116 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 383:
+1679004376 537792692 -603418992 
+1552960502 694522693 -163915116 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 384:
+1679004376 537792692 -603418992 
+1552960502 694522693 -163915116 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 385:
+1679004376 537792692 -603418992 
+1552960502 694522693 -163915116 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][1]!
+Changed register 1! 
+Result matrix on interation 386:
+1679004376 537792692 -603418992 
+1603292150 736465733 -130360684 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 387:
+1679004376 537792692 -603418992 
+1603292150 736465733 -130360684 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 388:
+1679004376 537792692 -603418992 
+1603292150 736465733 -130360684 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 389:
+1679004376 537792692 -603418992 
+1603292150 736465733 -130360684 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 390:
+1679004376 537792692 -603418992 
+1603292150 736465733 -130360684 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 391:
+1679004376 537792692 -603418992 
+1603292150 736465733 -130360684 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 392:
+1679004376 537792692 -603418992 
+1603292150 736465733 -130360684 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 393:
+1679004376 537792692 -603418992 
+1603292150 736465733 -130360684 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 394:
+1679004376 537792692 -603418992 
+1603292150 736465733 -130360684 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 395:
+1679004376 537792692 -603418992 
+1603292150 736465733 -130360684 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][0]!
+Changed register 1! 
+Result matrix on interation 396:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 397:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 398:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 399:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 400:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 401:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 402:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 403:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 404:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][0]!
+Result matrix on interation 405:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 406:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 407:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 408:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 409:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 410:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 411:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 412:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 413:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 414:
+1679004376 537792692 -603418992 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][2]!
+Changed register 5! 
+Result matrix on interation 415:
+1679004388 537792700 -603418988 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 416:
+1679004388 537792700 -603418988 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 417:
+1679004388 537792700 -603418988 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 418:
+1679004388 537792700 -603418988 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 419:
+1679004388 537792700 -603418988 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 420:
+1679004388 537792700 -603418988 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 421:
+1679004388 537792700 -603418988 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 422:
+1679004388 537792700 -603418988 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 423:
+1679004388 537792700 -603418988 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 424:
+1679004388 537792700 -603418988 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][1]!
+Changed register 4! 
+Result matrix on interation 425:
+1679004772 537793020 -603418732 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 426:
+1679004772 537793020 -603418732 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 427:
+1679004772 537793020 -603418732 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 428:
+1679004772 537793020 -603418732 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 429:
+1679004772 537793020 -603418732 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 430:
+1679004772 537793020 -603418732 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 431:
+1679004772 537793020 -603418732 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 432:
+1679004772 537793020 -603418732 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 433:
+1679004772 537793020 -603418732 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 434:
+1679004772 537793020 -603418732 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][0]!
+Changed register 2! 
+Result matrix on interation 435:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 436:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 437:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 438:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 439:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 440:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 441:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 442:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 443:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 444:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][0]!
+Result matrix on interation 445:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 446:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 447:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 448:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 449:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 450:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 451:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 452:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 453:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 454:
+1679000164 537788924 -603422316 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][2]!
+Changed register 6! 
+Result matrix on interation 455:
+1679393380 538051068 -603291244 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 456:
+1679393380 538051068 -603291244 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 457:
+1679393380 538051068 -603291244 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 458:
+1679393380 538051068 -603291244 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 459:
+1679393380 538051068 -603291244 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 460:
+1679393380 538051068 -603291244 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 461:
+1679393380 538051068 -603291244 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 462:
+1679393380 538051068 -603291244 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 463:
+1679393380 538051068 -603291244 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 464:
+1679393380 538051068 -603291244 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][1]!
+Changed register 6! 
+Result matrix on interation 465:
+1691976292 548536828 -594902636 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 466:
+1691976292 548536828 -594902636 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 467:
+1691976292 548536828 -594902636 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 468:
+1691976292 548536828 -594902636 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 469:
+1691976292 548536828 -594902636 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 470:
+1691976292 548536828 -594902636 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 471:
+1691976292 548536828 -594902636 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 472:
+1691976292 548536828 -594902636 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 473:
+1691976292 548536828 -594902636 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][1]!
+Changed register 5! 
+Result matrix on interation 474:
+1792639588 632422908 -527793772 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 475:
+1792639588 632422908 -527793772 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 476:
+1792639588 632422908 -527793772 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 477:
+1792639588 632422908 -527793772 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 478:
+1792639588 632422908 -527793772 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 479:
+1792639588 632422908 -527793772 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 480:
+1792639588 632422908 -527793772 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 481:
+1792639588 632422908 -527793772 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 482:
+1792639588 632422908 -527793772 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 483:
+1792639588 632422908 -527793772 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][0]!
+Changed register 3! 
+Result matrix on interation 484:
+-86408604 -1515060740 1351254420 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 485:
+-86408604 -1515060740 1351254420 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 486:
+-86408604 -1515060740 1351254420 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 487:
+-86408604 -1515060740 1351254420 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 488:
+-86408604 -1515060740 1351254420 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 489:
+-86408604 -1515060740 1351254420 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 490:
+-86408604 -1515060740 1351254420 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 491:
+-86408604 -1515060740 1351254420 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 492:
+-86408604 -1515060740 1351254420 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 493:
+-86408604 -1515060740 1351254420 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][2]!
+Changed register 2! 
+Result matrix on interation 494:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 495:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 496:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 497:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 498:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 499:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 500:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 501:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 502:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 503:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][1]!
+Result matrix on interation 504:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 505:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 506:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 507:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 508:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 509:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 510:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 511:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 512:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 513:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179362194 -1988061902 139481298 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][0]!
+Changed register 6! 
+Result matrix on interation 514:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179363346 -1988060878 139482194 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 515:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179363346 -1988060878 139482194 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 516:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179363346 -1988060878 139482194 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 517:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179363346 -1988060878 139482194 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 518:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179363346 -1988060878 139482194 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 519:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179363346 -1988060878 139482194 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 520:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179363346 -1988060878 139482194 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 521:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179363346 -1988060878 139482194 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 522:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179363346 -1988060878 139482194 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 523:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179363346 -1988060878 139482194 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][2]!
+Changed register 4! 
+Result matrix on interation 524:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179369490 -1988056782 139484242 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 525:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179369490 -1988056782 139484242 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 526:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179369490 -1988056782 139484242 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 527:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179369490 -1988056782 139484242 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 528:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179369490 -1988056782 139484242 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 529:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179369490 -1988056782 139484242 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 530:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179369490 -1988056782 139484242 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 531:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179369490 -1988056782 139484242 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 532:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179369490 -1988056782 139484242 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 533:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179369490 -1988056782 139484242 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][2]!
+Changed register 5! 
+Result matrix on interation 534:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179467794 -1987991246 139517010 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 535:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179467794 -1987991246 139517010 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 536:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179467794 -1987991246 139517010 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 537:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179467794 -1987991246 139517010 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 538:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179467794 -1987991246 139517010 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 539:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179467794 -1987991246 139517010 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 540:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179467794 -1987991246 139517010 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 541:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179467794 -1987991246 139517010 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 542:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+179467794 -1987991246 139517010 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][1]!
+Changed register 3! 
+Result matrix on interation 543:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+181040658 -1986680526 140565586 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 544:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+181040658 -1986680526 140565586 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 545:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+181040658 -1986680526 140565586 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 546:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+181040658 -1986680526 140565586 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 547:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+181040658 -1986680526 140565586 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 548:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+181040658 -1986680526 140565586 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 549:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+181040658 -1986680526 140565586 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 550:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+181040658 -1986680526 140565586 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 551:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+181040658 -1986680526 140565586 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 552:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+181040658 -1986680526 140565586 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][0]!
+Changed register 1! 
+Result matrix on interation 553:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 554:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 555:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 556:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 557:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 558:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 559:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 560:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 561:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 562:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][2]!
+Result matrix on interation 563:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 564:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 565:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 566:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 567:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 568:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 569:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 570:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 571:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 572:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+218789394 -1953126094 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][1]!
+Changed register 5! 
+Result matrix on interation 573:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694254 -879384270 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 574:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694254 -879384270 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 575:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694254 -879384270 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 576:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694254 -879384270 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 577:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694254 -879384270 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 578:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694254 -879384270 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 579:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694254 -879384270 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 580:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694254 -879384270 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 581:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694254 -879384270 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 582:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694254 -879384270 169925714 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][0]!
+Changed register 4! 
+Result matrix on interation 583:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694272 -879384286 169925700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 584:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694272 -879384286 169925700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 585:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694272 -879384286 169925700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 586:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694272 -879384286 169925700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 587:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694272 -879384286 169925700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 588:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694272 -879384286 169925700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 589:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694272 -879384286 169925700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 590:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694272 -879384286 169925700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 591:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694272 -879384286 169925700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 592:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694272 -879384286 169925700 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][2]!
+Changed register 2! 
+Result matrix on interation 593:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 594:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 595:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 596:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 597:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 598:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 599:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 600:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 601:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 602:
+-86408607 -1515060742 1351254419 
+-1483715594 1810207557 809163412 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][0]!
+Changed register 1! 
+Result matrix on interation 603:
+-86408607 -1515060742 1351254419 
+-1483710986 1810211653 809166996 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 604:
+-86408607 -1515060742 1351254419 
+-1483710986 1810211653 809166996 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 605:
+-86408607 -1515060742 1351254419 
+-1483710986 1810211653 809166996 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 606:
+-86408607 -1515060742 1351254419 
+-1483710986 1810211653 809166996 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 607:
+-86408607 -1515060742 1351254419 
+-1483710986 1810211653 809166996 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 608:
+-86408607 -1515060742 1351254419 
+-1483710986 1810211653 809166996 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 609:
+-86408607 -1515060742 1351254419 
+-1483710986 1810211653 809166996 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 610:
+-86408607 -1515060742 1351254419 
+-1483710986 1810211653 809166996 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 611:
+-86408607 -1515060742 1351254419 
+-1483710986 1810211653 809166996 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][2]!
+Changed register 1! 
+Result matrix on interation 612:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 613:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 614:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 615:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 616:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 617:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 618:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 619:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 620:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 621:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][1]!
+Result matrix on interation 622:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 623:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 624:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 625:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 626:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 627:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 628:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 629:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 630:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 631:
+-86408607 -1515060742 1351254419 
+-1483698698 1810219845 809171092 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][0]!
+Changed register 5! 
+Result matrix on interation 632:
+-86408607 -1515060742 1351254419 
+-1474261514 1818608453 816511124 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 633:
+-86408607 -1515060742 1351254419 
+-1474261514 1818608453 816511124 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 634:
+-86408607 -1515060742 1351254419 
+-1474261514 1818608453 816511124 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 635:
+-86408607 -1515060742 1351254419 
+-1474261514 1818608453 816511124 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 636:
+-86408607 -1515060742 1351254419 
+-1474261514 1818608453 816511124 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 637:
+-86408607 -1515060742 1351254419 
+-1474261514 1818608453 816511124 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 638:
+-86408607 -1515060742 1351254419 
+-1474261514 1818608453 816511124 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 639:
+-86408607 -1515060742 1351254419 
+-1474261514 1818608453 816511124 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 640:
+-86408607 -1515060742 1351254419 
+-1474261514 1818608453 816511124 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 641:
+-86408607 -1515060742 1351254419 
+-1474261514 1818608453 816511124 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][2]!
+Changed register 4! 
+Result matrix on interation 642:
+-86408607 -1515060742 1351254419 
+-1423929866 1852162885 833288340 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 643:
+-86408607 -1515060742 1351254419 
+-1423929866 1852162885 833288340 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 644:
+-86408607 -1515060742 1351254419 
+-1423929866 1852162885 833288340 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 645:
+-86408607 -1515060742 1351254419 
+-1423929866 1852162885 833288340 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 646:
+-86408607 -1515060742 1351254419 
+-1423929866 1852162885 833288340 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 647:
+-86408607 -1515060742 1351254419 
+-1423929866 1852162885 833288340 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 648:
+-86408607 -1515060742 1351254419 
+-1423929866 1852162885 833288340 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 649:
+-86408607 -1515060742 1351254419 
+-1423929866 1852162885 833288340 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 650:
+-86408607 -1515060742 1351254419 
+-1423929866 1852162885 833288340 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 651:
+-86408607 -1515060742 1351254419 
+-1423929866 1852162885 833288340 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][1]!
+Changed register 2! 
+Result matrix on interation 652:
+-86408607 -1515060742 1351254419 
+-618623498 -1771715771 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 653:
+-86408607 -1515060742 1351254419 
+-618623498 -1771715771 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 654:
+-86408607 -1515060742 1351254419 
+-618623498 -1771715771 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 655:
+-86408607 -1515060742 1351254419 
+-618623498 -1771715771 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 656:
+-86408607 -1515060742 1351254419 
+-618623498 -1771715771 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 657:
+-86408607 -1515060742 1351254419 
+-618623498 -1771715771 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 658:
+-86408607 -1515060742 1351254419 
+-618623498 -1771715771 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 659:
+-86408607 -1515060742 1351254419 
+-618623498 -1771715771 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 660:
+-86408607 -1515060742 1351254419 
+-618623498 -1771715771 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 661:
+-86408607 -1515060742 1351254419 
+-618623498 -1771715771 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][1]!
+Changed register 1! 
+Result matrix on interation 662:
+-86408607 -1515060742 1351254419 
+-618623498 375767877 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 663:
+-86408607 -1515060742 1351254419 
+-618623498 375767877 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 664:
+-86408607 -1515060742 1351254419 
+-618623498 375767877 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 665:
+-86408607 -1515060742 1351254419 
+-618623498 375767877 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 666:
+-86408607 -1515060742 1351254419 
+-618623498 375767877 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 667:
+-86408607 -1515060742 1351254419 
+-618623498 375767877 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 668:
+-86408607 -1515060742 1351254419 
+-618623498 375767877 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 669:
+-86408607 -1515060742 1351254419 
+-618623498 375767877 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 670:
+-86408607 -1515060742 1351254419 
+-618623498 375767877 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 671:
+-86408607 -1515060742 1351254419 
+-618623498 375767877 1370159252 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][0]!
+Changed register 6! 
+Result matrix on interation 672:
+-86408607 -1515060742 1351254419 
+-618623426 375767941 1370159308 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 673:
+-86408607 -1515060742 1351254419 
+-618623426 375767941 1370159308 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 674:
+-86408607 -1515060742 1351254419 
+-618623426 375767941 1370159308 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 675:
+-86408607 -1515060742 1351254419 
+-618623426 375767941 1370159308 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 676:
+-86408607 -1515060742 1351254419 
+-618623426 375767941 1370159308 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 677:
+-86408607 -1515060742 1351254419 
+-618623426 375767941 1370159308 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 678:
+-86408607 -1515060742 1351254419 
+-618623426 375767941 1370159308 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 679:
+-86408607 -1515060742 1351254419 
+-618623426 375767941 1370159308 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 680:
+-86408607 -1515060742 1351254419 
+-618623426 375767941 1370159308 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 681:
+Flipping bit in A[1][2]!
+Changed register 6! 
+-86408607 -1515060742 1351254419 
+-618623426 375767941 1370159308 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 682:
+-86408607 -1515060742 1351254419 
+-618623234 375768069 1370159372 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 683:
+-86408607 -1515060742 1351254419 
+-618623234 375768069 1370159372 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 684:
+-86408607 -1515060742 1351254419 
+-618623234 375768069 1370159372 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 685:
+-86408607 -1515060742 1351254419 
+-618623234 375768069 1370159372 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 686:
+-86408607 -1515060742 1351254419 
+-618623234 375768069 1370159372 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 687:
+-86408607 -1515060742 1351254419 
+-618623234 375768069 1370159372 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 688:
+-86408607 -1515060742 1351254419 
+-618623234 375768069 1370159372 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 689:
+-86408607 -1515060742 1351254419 
+-618623234 375768069 1370159372 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 690:
+-86408607 -1515060742 1351254419 
+-618623234 375768069 1370159372 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][1]!
+Changed register 5! 
+Result matrix on interation 691:
+-86408607 -1515060742 1351254419 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 692:
+-86408607 -1515060742 1351254419 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 693:
+-86408607 -1515060742 1351254419 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 694:
+-86408607 -1515060742 1351254419 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 695:
+-86408607 -1515060742 1351254419 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 696:
+-86408607 -1515060742 1351254419 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 697:
+-86408607 -1515060742 1351254419 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 698:
+-86408607 -1515060742 1351254419 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 699:
+-86408607 -1515060742 1351254419 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 700:
+-86408607 -1515060742 1351254419 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][0]!
+Changed register 3! 
+Result matrix on interation 701:
+-86261151 -1514929670 1351369107 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 702:
+-86261151 -1514929670 1351369107 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 703:
+-86261151 -1514929670 1351369107 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 704:
+-86261151 -1514929670 1351369107 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 705:
+-86261151 -1514929670 1351369107 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 706:
+-86261151 -1514929670 1351369107 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 707:
+-86261151 -1514929670 1351369107 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 708:
+-86261151 -1514929670 1351369107 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 709:
+-86261151 -1514929670 1351369107 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 710:
+-86261151 -1514929670 1351369107 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][2]!
+Changed register 2! 
+Result matrix on interation 711:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 712:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 713:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 714:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 715:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 716:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 717:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 718:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 719:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 720:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][1]!
+Result matrix on interation 721:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 722:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 723:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 724:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 725:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 726:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 727:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 728:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 729:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 730:
+-87047583 -1515453958 1351106963 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][1]!
+Changed register 6! 
+Result matrix on interation 731:
+114279009 -1347681798 1485324691 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 732:
+114279009 -1347681798 1485324691 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 733:
+114279009 -1347681798 1485324691 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 734:
+114279009 -1347681798 1485324691 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 735:
+114279009 -1347681798 1485324691 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 736:
+114279009 -1347681798 1485324691 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 737:
+114279009 -1347681798 1485324691 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 738:
+114279009 -1347681798 1485324691 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 739:
+114279009 -1347681798 1485324691 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 740:
+114279009 -1347681798 1485324691 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][0]!
+Changed register 4! 
+Result matrix on interation 741:
+651149921 -1347681798 948453779 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 742:
+651149921 -1347681798 948453779 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 743:
+651149921 -1347681798 948453779 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 744:
+651149921 -1347681798 948453779 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 745:
+651149921 -1347681798 948453779 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 746:
+651149921 -1347681798 948453779 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 747:
+651149921 -1347681798 948453779 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 748:
+651149921 -1347681798 948453779 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 749:
+651149921 -1347681798 948453779 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 750:
+651149921 -1347681798 948453779 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][2]!
+Changed register 5! 
+Result matrix on interation 751:
+651149927 -1347681794 948453781 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 752:
+651149927 -1347681794 948453781 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 753:
+651149927 -1347681794 948453781 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 754:
+651149927 -1347681794 948453781 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 755:
+651149927 -1347681794 948453781 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 756:
+651149927 -1347681794 948453781 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 757:
+651149927 -1347681794 948453781 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 758:
+651149927 -1347681794 948453781 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 759:
+651149927 -1347681794 948453781 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][1]!
+Changed register 3! 
+Result matrix on interation 760:
+651150023 -1347681714 948453845 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 761:
+651150023 -1347681714 948453845 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 762:
+651150023 -1347681714 948453845 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 763:
+651150023 -1347681714 948453845 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 764:
+651150023 -1347681714 948453845 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 765:
+651150023 -1347681714 948453845 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 766:
+651150023 -1347681714 948453845 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 767:
+651150023 -1347681714 948453845 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 768:
+651150023 -1347681714 948453845 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 769:
+651150023 -1347681714 948453845 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][1]!
+Changed register 2! 
+Result matrix on interation 770:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 771:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 772:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 773:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 774:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 775:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 776:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 777:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 778:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 779:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][0]!
+Result matrix on interation 780:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 781:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 782:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 783:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 784:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 785:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 786:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 787:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 788:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 789:
+651151559 -1347680434 948454869 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[0][0]!
+Changed register 6! 
+Result matrix on interation 790:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 791:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 792:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 793:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 794:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 795:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 796:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 797:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 798:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 799:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1928694176 -879384222 169925732 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][2]!
+Changed register 4! 
+Result matrix on interation 800:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1927121312 -878335646 170450020 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 801:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1927121312 -878335646 170450020 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 802:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1927121312 -878335646 170450020 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 803:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1927121312 -878335646 170450020 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 804:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1927121312 -878335646 170450020 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 805:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1927121312 -878335646 170450020 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 806:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1927121312 -878335646 170450020 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 807:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1927121312 -878335646 170450020 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 808:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1927121312 -878335646 170450020 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 809:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1927121312 -878335646 170450020 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][1]!
+Changed register 2! 
+Result matrix on interation 810:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1876789664 -836392606 204004452 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 811:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1876789664 -836392606 204004452 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 812:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1876789664 -836392606 204004452 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 813:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1876789664 -836392606 204004452 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 814:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1876789664 -836392606 204004452 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 815:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1876789664 -836392606 204004452 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 816:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1876789664 -836392606 204004452 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 817:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1876789664 -836392606 204004452 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 818:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1876789664 -836392606 204004452 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 819:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1876789664 -836392606 204004452 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][0]!
+Changed register 3! 
+Result matrix on interation 820:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-668830112 237349218 1143528548 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 821:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-668830112 237349218 1143528548 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 822:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-668830112 237349218 1143528548 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 823:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-668830112 237349218 1143528548 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 824:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-668830112 237349218 1143528548 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 825:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-668830112 237349218 1143528548 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 826:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-668830112 237349218 1143528548 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 827:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-668830112 237349218 1143528548 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 828:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-668830112 237349218 1143528548 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][2]!
+Changed register 1! 
+Result matrix on interation 829:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 830:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 831:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 832:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 833:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 834:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 835:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 836:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 837:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 838:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][1]!
+Result matrix on interation 839:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 840:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 841:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 842:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 843:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 844:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 845:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 846:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 847:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 848:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571936 -1910134430 -2077696924 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][0]!
+Changed register 5! 
+Result matrix on interation 849:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571360 -1910133918 -2077696476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 850:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571360 -1910133918 -2077696476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 851:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571360 -1910133918 -2077696476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 852:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571360 -1910133918 -2077696476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 853:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571360 -1910133918 -2077696476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 854:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571360 -1910133918 -2077696476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 855:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571360 -1910133918 -2077696476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 856:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571360 -1910133918 -2077696476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 857:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571360 -1910133918 -2077696476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 858:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742571360 -1910133918 -2077696476 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][0]!
+Changed register 4! 
+Result matrix on interation 859:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742566752 -1910129822 -2077692892 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 860:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742566752 -1910129822 -2077692892 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 861:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742566752 -1910129822 -2077692892 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 862:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742566752 -1910129822 -2077692892 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 863:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742566752 -1910129822 -2077692892 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 864:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742566752 -1910129822 -2077692892 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 865:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742566752 -1910129822 -2077692892 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 866:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742566752 -1910129822 -2077692892 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 867:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742566752 -1910129822 -2077692892 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 868:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742566752 -1910129822 -2077692892 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][2]!
+Changed register 2! 
+Result matrix on interation 869:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742542176 -1910113438 -2077684700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 870:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742542176 -1910113438 -2077684700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 871:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742542176 -1910113438 -2077684700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 872:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742542176 -1910113438 -2077684700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 873:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742542176 -1910113438 -2077684700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 874:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742542176 -1910113438 -2077684700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 875:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742542176 -1910113438 -2077684700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 876:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742542176 -1910113438 -2077684700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 877:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742542176 -1910113438 -2077684700 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 878:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1742542176 -1910113438 -2077684700 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][1]!
+Changed register 1! 
+Result matrix on interation 879:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1741755744 -1909458078 -2077160412 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 880:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1741755744 -1909458078 -2077160412 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 881:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1741755744 -1909458078 -2077160412 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 882:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1741755744 -1909458078 -2077160412 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 883:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1741755744 -1909458078 -2077160412 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 884:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1741755744 -1909458078 -2077160412 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 885:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1741755744 -1909458078 -2077160412 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 886:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1741755744 -1909458078 -2077160412 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 887:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1741755744 -1909458078 -2077160412 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 888:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1741755744 -1909458078 -2077160412 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[2][0]!
+Changed register 1! 
+Result matrix on interation 889:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 890:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 891:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 892:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 893:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 894:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 895:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 896:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 897:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][2]!
+Result matrix on interation 898:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 899:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 900:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 901:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 902:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 903:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 904:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 905:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 906:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 907:
+651446471 -1347418290 948684245 
+-618617090 375773189 1370163468 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][1]!
+Changed register 5! 
+Result matrix on interation 908:
+651446471 -1347418290 948684245 
+991995646 1717950469 -1851062004 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 909:
+651446471 -1347418290 948684245 
+991995646 1717950469 -1851062004 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 910:
+651446471 -1347418290 948684245 
+991995646 1717950469 -1851062004 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 911:
+651446471 -1347418290 948684245 
+991995646 1717950469 -1851062004 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 912:
+651446471 -1347418290 948684245 
+991995646 1717950469 -1851062004 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 913:
+651446471 -1347418290 948684245 
+991995646 1717950469 -1851062004 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 914:
+651446471 -1347418290 948684245 
+991995646 1717950469 -1851062004 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 915:
+651446471 -1347418290 948684245 
+991995646 1717950469 -1851062004 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 916:
+651446471 -1347418290 948684245 
+991995646 1717950469 -1851062004 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 917:
+651446471 -1347418290 948684245 
+991995646 1717950469 -1851062004 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][1]!
+Changed register 3! 
+Result matrix on interation 918:
+651446471 -1347418290 948684245 
+991995640 1717950464 -1851062008 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 919:
+651446471 -1347418290 948684245 
+991995640 1717950464 -1851062008 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 920:
+651446471 -1347418290 948684245 
+991995640 1717950464 -1851062008 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 921:
+651446471 -1347418290 948684245 
+991995640 1717950464 -1851062008 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 922:
+651446471 -1347418290 948684245 
+991995640 1717950464 -1851062008 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 923:
+651446471 -1347418290 948684245 
+991995640 1717950464 -1851062008 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 924:
+651446471 -1347418290 948684245 
+991995640 1717950464 -1851062008 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 925:
+651446471 -1347418290 948684245 
+991995640 1717950464 -1851062008 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 926:
+651446471 -1347418290 948684245 
+991995640 1717950464 -1851062008 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 927:
+651446471 -1347418290 948684245 
+991995640 1717950464 -1851062008 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][1]!
+Changed register 2! 
+Result matrix on interation 928:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 929:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 930:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 931:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 932:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 933:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 934:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 935:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 936:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 937:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][0]!
+Result matrix on interation 938:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 939:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 940:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 941:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 942:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 943:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 944:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 945:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 946:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 947:
+651446471 -1347418290 948684245 
+991995688 1717950504 -1851061976 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][2]!
+Changed register 6! 
+Result matrix on interation 948:
+651446471 -1347418290 948684245 
+992001832 1717954600 -1851059928 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 949:
+651446471 -1347418290 948684245 
+992001832 1717954600 -1851059928 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 950:
+651446471 -1347418290 948684245 
+992001832 1717954600 -1851059928 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 951:
+651446471 -1347418290 948684245 
+992001832 1717954600 -1851059928 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 952:
+651446471 -1347418290 948684245 
+992001832 1717954600 -1851059928 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 953:
+651446471 -1347418290 948684245 
+992001832 1717954600 -1851059928 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 954:
+651446471 -1347418290 948684245 
+992001832 1717954600 -1851059928 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 955:
+651446471 -1347418290 948684245 
+992001832 1717954600 -1851059928 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 956:
+651446471 -1347418290 948684245 
+992001832 1717954600 -1851059928 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 957:
+651446471 -1347418290 948684245 
+992001832 1717954600 -1851059928 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][1]!
+Changed register 6! 
+Result matrix on interation 958:
+651446471 -1347418290 948684245 
+992198440 1718118440 -1850928856 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 959:
+651446471 -1347418290 948684245 
+992198440 1718118440 -1850928856 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 960:
+651446471 -1347418290 948684245 
+992198440 1718118440 -1850928856 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 961:
+651446471 -1347418290 948684245 
+992198440 1718118440 -1850928856 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 962:
+651446471 -1347418290 948684245 
+992198440 1718118440 -1850928856 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 963:
+651446471 -1347418290 948684245 
+992198440 1718118440 -1850928856 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 964:
+651446471 -1347418290 948684245 
+992198440 1718118440 -1850928856 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 965:
+651446471 -1347418290 948684245 
+992198440 1718118440 -1850928856 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 966:
+651446471 -1347418290 948684245 
+992198440 1718118440 -1850928856 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][0]!
+Changed register 5! 
+Result matrix on interation 967:
+651446471 -1347418290 948684245 
+994557736 1720215592 -1849093848 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 968:
+651446471 -1347418290 948684245 
+994557736 1720215592 -1849093848 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 969:
+651446471 -1347418290 948684245 
+994557736 1720215592 -1849093848 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 970:
+651446471 -1347418290 948684245 
+994557736 1720215592 -1849093848 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 971:
+651446471 -1347418290 948684245 
+994557736 1720215592 -1849093848 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 972:
+651446471 -1347418290 948684245 
+994557736 1720215592 -1849093848 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 973:
+651446471 -1347418290 948684245 
+994557736 1720215592 -1849093848 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 974:
+651446471 -1347418290 948684245 
+994557736 1720215592 -1849093848 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 975:
+651446471 -1347418290 948684245 
+994557736 1720215592 -1849093848 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 976:
+651446471 -1347418290 948684245 
+994557736 1720215592 -1849093848 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][2]!
+Changed register 3! 
+Result matrix on interation 977:
+651446471 -1347418290 948684245 
+1007140648 1728604200 -1844899544 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 978:
+651446471 -1347418290 948684245 
+1007140648 1728604200 -1844899544 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 979:
+651446471 -1347418290 948684245 
+1007140648 1728604200 -1844899544 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 980:
+651446471 -1347418290 948684245 
+1007140648 1728604200 -1844899544 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 981:
+651446471 -1347418290 948684245 
+1007140648 1728604200 -1844899544 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 982:
+651446471 -1347418290 948684245 
+1007140648 1728604200 -1844899544 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 983:
+651446471 -1347418290 948684245 
+1007140648 1728604200 -1844899544 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 984:
+651446471 -1347418290 948684245 
+1007140648 1728604200 -1844899544 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 985:
+651446471 -1347418290 948684245 
+1007140648 1728604200 -1844899544 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 986:
+651446471 -1347418290 948684245 
+1007140648 1728604200 -1844899544 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Flipping bit in A[1][2]!
+Changed register 2! 
+Result matrix on interation 987:
+651446471 -1347418290 948684245 
+1208467240 1862821928 -1777790680 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
+Result matrix on interation 988:
+651446471 -1347418290 948684245 
+1208467240 1862821928 -1777790680 
+-1760630112 -1926235294 -2091840476 
+Complete
+
+
+
+
+
+
+
+
+
