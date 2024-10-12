@@ -6,8 +6,11 @@ Currently, the only supported CPU is the Cortex-M0 what runs on the Raspberry Pi
 
 The program uses the dual core functionality that runs the fault injection program on the first core. The second core runs the target program and is monitored by the first core. 
 
-
 To run the program:
 <br/> 1. change the CMakeLists.txt file and change this line: set(PICO_SDK_PATH "set directory to Pico SDK path") to include the Pico SDK directory.
-<br/> 2. cd into /build and run cmake ..
-<br/> 3. run make
+
+```{r, engine='bash', code_block_name} 
+$ cd ~/MM-FI2/build
+$ cmake ..
+$ make
+```
